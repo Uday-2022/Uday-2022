@@ -27,7 +27,7 @@ I'm currently deepening my understanding of data science, automation, financial 
 
 ### 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/udaykhanna96/)) or drop me an email at [udaykhanna1996@gmail.com](mailto:udaykhanna1996@gmail.com). I'm always open to discussing new ideas, collaborations, or opportunities in the field of data science and financial engineering.
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/udaykhanna96/]) or drop me an email at [udaykhanna1996@gmail.com](mailto:udaykhanna1996@gmail.com). I'm always open to discussing new ideas, collaborations, or opportunities in the field of data science and financial engineering.
 
 ### ✨ Let's Explore Data Together!
 
