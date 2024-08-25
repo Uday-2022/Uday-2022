@@ -1,4 +1,4 @@
-# Hi, I'm [Uday Khanna] 👋
+# Hi, I'm Uday Khanna 👋
 
 Welcome to my GitHub profile! I'm passionate about working with data, exploring statistics, econometrics, and applying data science concepts to make meaningful inferences. My journey in the world of data is fueled by my ongoing M.Sc. in Financial Engineering from WorldQuant University (WQU) and continuous learning through the Data Science Lab at WQU.
 
