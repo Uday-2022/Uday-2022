@@ -1,34 +1,21 @@
-# Hi, I'm Uday Khanna 👋
+# Key Highlights ✨
 
-Welcome to my GitHub profile! I'm passionate about working with data, exploring statistics, econometrics, and applying data science concepts to make meaningful inferences. My journey in the world of data is fueled by my ongoing M.Sc. in Financial Engineering from WorldQuant University (WQU) and continuous learning through the Data Science Lab at WQU.
+-**Experience**: I have been working with MAIT since June 2021 in Research & Analysis. I focus in my work more on automating repetitive tasks, Data management, building models to learn data better, and reproducible report writing using Python & R markdown, Ad-hoc reports and Power-BI Dashboards.
+-**GitHub Profile**: I'm currently working on building my GitHub profile with Data Science & Econometrics Applications on Macro-Economics & Finance.
+-**Passion**: I'm passionate about working with data, exploring statistics & econometrics, and applying data science concepts to make meaningful inferences. 
+-**Continuous skill Development**: My journey in data is fueled by my ongoing M.Sc. in Financial Engineering from WorldQuant University (WQU) and continuous learning through the Data Science Lab at WQU. Also, I took short courses from MOOCs, such as Macro-Econometrics Forecasting and Macro-Economic Diagnostic by IMF. I have recently completed the Executive Development Course on Applied Financial Risk Analytics course provided by IIM Kashipur and Introduction to AI using Python by IIT-Kanpur.
+-**Objective**: My objective is to develop my skills further and apply them to solve real-world problems.
 
-### 🚀 My Journey
+## Background
 
-I'm currently deepening my understanding of data science, automation, financial engineering, and econometrics, aiming to solve complex problems and derive insights from data. My GitHub repositories serve as a sandbox where I apply, experiment, and iterate on the concepts I learn. My approach is methodical and systematic, ensuring that every concept I learn is applied practically and comprehensively.
+I graduated from Atma Ram Sanatan Dharma College (South Campus, Delhi University) with a B.A (Hons) in Economics. I have completed my Masters in Economics from IGNOU. After completing my bachelor's, I was sure about working in the Econometrics field. I joined an E-Learning company who wants statistics & econometrics. I started looking for relevant courses and upgrading my skills. I took up a lot of courses ranging from in-personal courses, courses provided by MOOCs, Linkedin Learning, Premier Institutes like IIM and IIT, and now with a foreign university (WQU).
 
-### 🧠 What I'm Learning
+I'm a results-driven Data Analyst with a strong background in research and analysis, currently transitioning into data science. Experienced in utilizing data analysis, data visualization, automating tasks and periodic reproducible reports, and applying machine learning and natural language processing (NLP) techniques as needed for projects. Proficient in Python, PostgreSQL, and Power BI, with hands-on experience in implementing and automating workflows. Eager to leverage data analysis and econometrics expertise to drive business value in a dynamic organization.
 
-- **Econometrics**: Exploring various econometric models to understand and predict financial phenomena. Note: I have already completed the Macroeconometrics using EViews course provided by the IMF.
-- **Data Science**: Revising core data science concepts, including machine learning, data preprocessing, and model evaluation. Note: I have already completed Introduction to AI provided by IIT Kanpur.
-- **Statistics**: Applying statistical techniques to draw inferences and uncover hidden patterns in data.
-- **Financial Engineering**: Integrating financial theory with mathematical modeling to optimize financial decision-making, a focus of my ongoing M.Sc. Financial Engineering course.
-
-### 🔍 What You'll Find in My Repositories
-
-- **Structured Learning**: My repositories are organized to reflect a step-by-step learning process. Each project is designed to build upon the previous one, showcasing a clear learning curve and understanding of the material.
-- **Practical Applications**: You'll find applications of data science and econometrics in financial contexts, where I implement theories and methods on real datasets.
-- **Documentation and Code Clarity**: I believe in writing clean, well-documented code. Each project comes with a comprehensive README and inline comments to ensure clarity and ease of understanding.
-
-### 🌱 Currently Working On
-
-- Developing a robust **Econometric Model** to analyze and predict financial market behaviour (Niftybees ETF).
-- Applying **Time Series Analysis** to financial data. I will apply time series analysis to forecast Niftybees ETF value.
-- I will apply **Machine Learning** Concepts on the same or extended data.
-
-### 📫 How to Reach Me
+## 📫 How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/udaykhanna96/) or drop me an email at [udaykhanna1996@gmail.com](mailto:udaykhanna1996@gmail.com). I'm always open to discussing new ideas, collaborations, or opportunities in the field of data science and financial engineering.
 
-### ✨ Let's Explore Data Together!
+## Let's Explore Data Together!
 
 I’m excited to continue this journey and share my progress with the community. Whether you're here to learn, collaborate, or just explore, I hope you find something valuable in my work.
