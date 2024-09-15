@@ -1,14 +1,14 @@
 # Key Highlights ✨
 <br/>
-**-****Experience**: I have been working with MAIT since June 2021 in Research & Analysis. I focus in my work more on automating repetitive tasks, Data management, building models to learn data better, and reproducible report writing using Python & R markdown, Ad-hoc reports and Power-BI Dashboards.<br/>
+**Experience**: I have been working with MAIT since June 2021 in Research & Analysis. I focus in my work more on automating repetitive tasks, Data management, building models to learn data better, and reproducible report writing using Python & R markdown, Ad-hoc reports and Power-BI Dashboards.<br/>
 <br/>
-**-****GitHub Profile**: I'm currently working on building my GitHub profile with Data Science & Econometrics Applications on Macro-Economics & Finance.<br/>
+**GitHub Profile**: I'm currently working on building my GitHub profile with Data Science & Econometrics Applications on Macro-Economics & Finance.<br/>
 <br/>
-**-****Passion**: I'm passionate about working with data, exploring statistics & econometrics, and applying data science concepts to make meaningful inferences.<br/> 
+**Passion**: I'm passionate about working with data, exploring statistics & econometrics, and applying data science concepts to make meaningful inferences.<br/> 
 <br/>
-**-****Continuous skill Development**: My journey in data is fueled by my ongoing M.Sc. in Financial Engineering from WorldQuant University (WQU) and continuous learning through the Data Science Lab at WQU. Also, I took short courses from MOOCs, such as Macro-Econometrics Forecasting and Macro-Economic Diagnostic by IMF. I have recently completed the Executive Development Course on Applied Financial Risk Analytics course provided by IIM Kashipur and Introduction to AI using Python by IIT-Kanpur.<br/>
+**Continuous skill Development**: My journey in data is fueled by my ongoing M.Sc. in Financial Engineering from WorldQuant University (WQU) and continuous learning through the Data Science Lab at WQU. Also, I took short courses from MOOCs, such as Macro-Econometrics Forecasting and Macro-Economic Diagnostic by IMF. I have recently completed the Executive Development Course on Applied Financial Risk Analytics course provided by IIM Kashipur and Introduction to AI using Python by IIT-Kanpur.<br/>
 <br/>
-**-****Objective**: My objective is to develop my skills further and apply them to solve real-world problems.<br/>
+**Objective**: My objective is to develop my skills further and apply them to solve real-world problems.<br/>
 <br/>
 ## Background
 <br/>
