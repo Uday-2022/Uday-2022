@@ -13,16 +13,14 @@
 
 ## Background
 
-<br/>
-
 I graduated from Atma Ram Sanatan Dharma College (South Campus, Delhi University) with a B.A (Hons) in Economics. I have completed my Masters in Economics from IGNOU. After completing my bachelor's, I was sure about working in the Econometrics field. I joined an E-Learning company who wants statistics & econometrics. I started looking for relevant courses and upgrading my skills. I took up a lot of courses ranging from in-personal courses, courses provided by MOOCs, Linkedin Learning, Premier Institutes like IIM and IIT, and now with a foreign university (WQU).
 <br/>
 I'm a results-driven Data Analyst with a strong background in research and analysis, currently transitioning into data science. Experienced in utilizing data analysis, data visualization, automating tasks and periodic reproducible reports, and applying machine learning and natural language processing (NLP) techniques as needed for projects. Proficient in Python, PostgreSQL, and Power BI, with hands-on experience in implementing and automating workflows. Eager to leverage data analysis and econometrics expertise to drive business value in a dynamic organization.
-<br/>
+
 ## 📫 How to Reach Me
-<br/>
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/udaykhanna96/) or drop me an email at [udaykhanna1996@gmail.com](mailto:udaykhanna1996@gmail.com). I'm always open to discussing new ideas, collaborations, or opportunities in the field of data science and financial engineering.
-<br/>
+
 ## Let's Explore Data Together!
-<br/>
+
 I’m excited to continue this journey and share my progress with the community. Whether you're here to learn, collaborate, or just explore, I hope you find something valuable in my work.
