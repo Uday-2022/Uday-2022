@@ -1,5 +1,4 @@
 # Key Highlights ✨
-<br/>
 
 **Experience**: I have been working with MAIT since June 2021 in Research & Analysis. I focus in my work more on automating repetitive tasks, Data management, building models to learn data better, and reproducible report writing using Python & R markdown, Ad-hoc reports and Power-BI Dashboards.<br/>
 
@@ -13,8 +12,9 @@
 
 ## Background
 
-I graduated from Atma Ram Sanatan Dharma College (South Campus, Delhi University) with a B.A (Hons) in Economics. I have completed my Masters in Economics from IGNOU. After completing my bachelor's, I was sure about working in the Econometrics field. I joined an E-Learning company who wants statistics & econometrics. I started looking for relevant courses and upgrading my skills. I took up a lot of courses ranging from in-personal courses, courses provided by MOOCs, Linkedin Learning, Premier Institutes like IIM and IIT, and now with a foreign university (WQU).
+I graduated from Atma Ram Sanatan Dharma College (South Campus, Delhi University) with a B.A (Hons) in Economics. I have completed my Masters in Economics from IGNOU. After completing my bachelor's, I was sure about working in the Econometrics field. I joined an E-Learning company that wants statistics & econometrics. I started looking for relevant courses and upgrading my skills. I took up a lot of courses ranging from in-personal courses, courses provided by MOOCs, Linkedin Learning, Premier Institutes like IIM and IIT, and now with a foreign university (WQU).
 <br/>
+
 I'm a results-driven Data Analyst with a strong background in research and analysis, currently transitioning into data science. Experienced in utilizing data analysis, data visualization, automating tasks and periodic reproducible reports, and applying machine learning and natural language processing (NLP) techniques as needed for projects. Proficient in Python, PostgreSQL, and Power BI, with hands-on experience in implementing and automating workflows. Eager to leverage data analysis and econometrics expertise to drive business value in a dynamic organization.
 
 ## 📫 How to Reach Me
